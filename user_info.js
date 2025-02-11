@@ -39,6 +39,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
     }
 });
 function reloadPage(){
-    window.location.href = "homepage.html"
+    window.location.href = "index.html"
 }
 
